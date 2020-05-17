@@ -6,7 +6,7 @@ Using the shot_map.py code with Peter McKeever's openfootball.club, you can crea
 
 1. Collect the shot data for the game using openfootball.club and make sure you fill out every field.
 <p align="center">
-  <img width="700" height="400" src="https://user-images.githubusercontent.com/57690237/82161302-2f3d0800-9861-11ea-845c-7a5020496c6e.png">
+  <img width="981" height="624" src="https://user-images.githubusercontent.com/57690237/82161302-2f3d0800-9861-11ea-845c-7a5020496c6e.png">
 </p>
 
 

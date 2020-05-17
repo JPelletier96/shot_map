@@ -1,4 +1,5 @@
 #This first draw_pitch function is a slightly edited version of the code from Peter McKeever's blog post: http://petermckeever.com/2019/01/plotting-pitches-in-python/
+#creating the shot map starts at line 165
 import matplotlib.pyplot as plt
 
 def draw_pitch(pitch, line, orientation,view):
@@ -162,11 +163,14 @@ def draw_pitch(pitch, line, orientation,view):
         ax.add_artist(rec2)
         ax.add_artist(circle3)
         
-        
+########################################################## Creating the shot map ########################################################
         
 import csv
 import pandas as pd
+
+#the second input for draw_pitch (#faf0e6) specifies the color of the pitch. Use https://htmlcolorcodes.com/ to pick a new Hex color code for the pitch
 draw_pitch("#199905","#faf0e6","h","full")
+
 from matplotlib.patches import Rectangle
 
 #########################   USER INPUTS  ##########################
@@ -320,3 +324,6 @@ plt.text(46,52.75,'{:2.0f}%'.format(AwayWin),**font,color="black",zorder=zo,font
 
 
 plt.show()
+print('Copy and paste these numbers into https://danny.page/expected_goals.html and then copy and paste those results percentages into the user inputs before running the script again')
+print('home team shots: ', Hxg)
+print('away team shots: ', Axg)

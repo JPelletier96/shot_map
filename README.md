@@ -1,5 +1,5 @@
 # Shot Maps
-Using the shot_map.py code with Peter McKeever's openfootball.club, you can create your own xG shot maps for any game. (circle = shot, location = shot location, circle size = xG (see legend at the bottom left), circle color = team colors, red circle = goal, colored bars = result percentages aka % likelihood of getting a win/draw/loss based on your xG)
+Using the shot_map.py code with Peter McKeever's openfootball.club, you can create your own xG shot maps for any game. (circle = shot, location = shot location, circle size = xG (see legend at the bottom left), circle color = team colors, red circle = goal, colored bars = % likelihood of home team getting a win(blue), draw(gray), or away team getting a win(yellow) based on the team's xG)
 <p align="center">
   <img width="600" height="394" src="https://user-images.githubusercontent.com/57690237/82160978-c3f23680-985e-11ea-9be2-870cd3e8cad3.png">
 </p>
@@ -12,6 +12,6 @@ Note: I recommend running this as a jupyter notebook, just because it's easier t
 
 
 2. Make sure the downloaded CSV is in the same directory as shot_map.py, adjust the user inputs, and run the script.
-3. Follow the instructions at the bottom of the script to change the results percentages.
+3. Follow the instructions at the bottom of the script to change the results percentages (In the future I'll try and fix this so you don't have to go to another site to get the results percentages data).
 
 

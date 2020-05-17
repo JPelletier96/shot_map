@@ -13,5 +13,6 @@ Note: I recommend running this as a jupyter notebook, just because it's easier t
 
 2. Make sure the downloaded CSV is in the same directory as shot_map.py, adjust the user inputs, and run the script.
 3. Follow the instructions at the bottom of the script to change the results percentages (In the future I'll try and fix this so you don't have to go to another site to get the results percentages data).
+4. If you like openfootball.club and up using it a lot, consider buying Peter a beer or 2 ;)
 
 

@@ -1,7 +1,7 @@
 # Shot Maps
 Using the shot_map.py code with Peter McKeever's openfootball.club, you can create your own xG shot maps for any game.
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/57690237/82160978-c3f23680-985e-11ea-9be2-870cd3e8cad3.png">
 </p>
   ![image](https://user-images.githubusercontent.com/57690237/82160978-c3f23680-985e-11ea-9be2-870cd3e8cad3.png)
 1. Collect the shot data for the game using openfootball.club and make sure you fill out every field.

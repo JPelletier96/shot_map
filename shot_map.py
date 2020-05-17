@@ -192,6 +192,7 @@ y = df['y'].values.tolist()
 outcome = df['outcome'].values.tolist()
 minute = df['min'].values.tolist()
 sec = df['sec'].values.tolist()
+situation = df['situation'].values.tolist()
 home = df['home'][0]
 away = df['away'][0]
 

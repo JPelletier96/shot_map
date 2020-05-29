@@ -5,7 +5,7 @@ Using the shot_map.py code with Peter McKeever's openfootball.club, you can crea
 </p>
 
 Note: I recommend running this as a jupyter notebook, just because it's easier to get the results percentages, but I did include both .py and .ipynb files so go with whichever one you prefer.
-1. Collect the shot data for the game using openfootball.club and make sure you fill out every field.
+1. Collect the shot data for the game using openfootball.club and make sure you fill out every field. If you just want to play around with the code I do have the shot data from our game against Colorado College that you're free to use.
 <p align="center">
   <img width="686.7" height="420" src="https://user-images.githubusercontent.com/57690237/82161302-2f3d0800-9861-11ea-845c-7a5020496c6e.png">
 </p>

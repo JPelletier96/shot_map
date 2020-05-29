@@ -1,0 +1,28 @@
+﻿date,country,league,home,away,teamFor,player,period,min,sec,x,y,GD,situation,bodyPart,assist,outcome,context,xG
+10/19/2019,United States ,NCAA DIII,University of Dallas,Colorado College ,home,B. McNamara,1,4,5,99,32.2,0,Free Kick,Right Foot,None,Saved,First Time,0.495
+10/19/2019,United States ,NCAA DIII,University of Dallas,Colorado College ,home,T. Depetris,1,6,12,90.4,31.4,0,Open Play,Right Foot,Throughball,Saved,1 v 1,0.405
+10/19/2019,United States ,NCAA DIII,University of Dallas,Colorado College ,home,C. Ogueri,1,13,33,103.2,49.6,0,Open Play,Left Foot,None,Saved,First Time,0.035
+10/19/2019,United States ,NCAA DIII,University of Dallas,Colorado College ,home,T. Depetris,1,28,20,97,41.6,-1,Open Play,Left Foot,Throughball,Saved,First Time,0.371
+10/19/2019,United States ,NCAA DIII,University of Dallas,Colorado College ,home,C. Reynolds,1,31,43,77.6,29.4,-2,Open Play,Right Foot,None,Missed,Dribble,0.023
+10/19/2019,United States ,NCAA DIII,University of Dallas,Colorado College ,home,C. Trevinos,1,43,22,86.8,33.6,-1,Open Play,Left Foot,None,Goal,,0.09
+10/19/2019,United States ,NCAA DIII,University of Dallas,Colorado College ,home,C. Ogueri,2,46,2,90.8,47.8,-1,Open Play,Right Foot,Throughball,Saved,,0.15
+10/19/2019,United States ,NCAA DIII,University of Dallas,Colorado College ,home,T. Depetris,2,48,52,96.2,34.8,-1,Open Play,Left Foot,Throughball,Saved,1 v 1,0.48
+10/19/2019,United States ,NCAA DIII,University of Dallas,Colorado College ,home,C. Ogueri,2,70,57,99.6,24,-1,Open Play,Right Foot,None,Saved,,0.102
+10/19/2019,United States ,NCAA DIII,University of Dallas,Colorado College ,home,C. Ogueri,2,78,35,79.8,50.8,-1,Open Play,Right Foot,None,Saved,,0.013
+10/19/2019,United States ,NCAA DIII,University of Dallas,Colorado College ,home,C. Ogueri,2,81,0,93.2,27.6,-1,Free Kick,Head,Cross,Saved,,0.072
+10/19/2019,United States ,NCAA DIII,University of Dallas,Colorado College ,home,C. Ogueri,2,82,23,95.6,50.2,-1,Open Play,Left Foot,Throughball,Saved,,0.065
+10/19/2019,United States ,NCAA DIII,University of Dallas,Colorado College ,home,T. Depetris,2,84,12,79.2,31.6,-1,Free Kick,Left Foot,None,Saved,,0.109
+10/19/2019,United States ,NCAA DIII,University of Dallas,Colorado College ,away,Colorado College,1,7,40,95.8,48.6,0,Open Play,Right Foot,Throughball,Saved,,0.123
+10/19/2019,United States ,NCAA DIII,University of Dallas,Colorado College ,away,Colorado College,1,12,0,95.6,36.6,0,Open Play,Head,Cross,Saved,,0.163
+10/19/2019,United States ,NCAA DIII,University of Dallas,Colorado College ,away,Colorado College,1,15,0,84,27.6,0,Open Play,Right Foot,None,Saved,Dribble,0.054
+10/19/2019,United States ,NCAA DIII,University of Dallas,Colorado College ,away,Colorado College,1,24,56,95,31.6,1,Open Play,Left Foot,Throughball,Goal,,0.399
+10/19/2019,United States ,NCAA DIII,University of Dallas,Colorado College ,away,Colorado College,1,29,30,91.2,34.8,1,Open Play,Head,Cross,Missed,,0.053
+10/19/2019,United States ,NCAA DIII,University of Dallas,Colorado College ,away,Colorado College,2,48,5,89.8,41.8,1,Open Play,Right Foot,Cutback,Missed,,0.103
+10/19/2019,United States ,NCAA DIII,University of Dallas,Colorado College ,away,Colorado College,2,64,52,93.4,32.6,2,Open Play,Right Foot,None,Saved,,0.247
+10/19/2019,United States ,NCAA DIII,University of Dallas,Colorado College ,away,Colorado College,2,65,0,90.6,32.4,2,Open Play,Right Foot,None,Missed,Rebound,0.141
+10/19/2019,United States ,NCAA DIII,University of Dallas,Colorado College ,away,Colorado College,2,65,53,98.4,27.8,2,Open Play,Right Foot,None,Saved,,0.183
+10/19/2019,United States ,NCAA DIII,University of Dallas,Colorado College ,away,Colorado College,2,66,12,86.2,48,2,Open Play,Right Foot,None,Missed,,0.035
+10/19/2019,United States ,NCAA DIII,University of Dallas,Colorado College ,away,Colorado College,2,69,48,89.6,39,2,Open Play,Right Foot,None,Saved,,0.127
+10/19/2019,United States ,NCAA DIII,University of Dallas,Colorado College ,away,Colorado College,2,74,19,90.6,25.6,2,Open Play,Left Foot,None,Saved,,0.092
+10/19/2019,United States ,NCAA DIII,University of Dallas,Colorado College ,away,Colorado College,2,76,54,93,34.8,2,Open Play,Right Foot,Cutback,Saved,,0.25
+10/19/2019,United States ,NCAA DIII,University of Dallas,Colorado College ,away,Colorado College,2,89,10,94.4,19.4,2,Open Play,Right Foot,None,Missed,,0.028

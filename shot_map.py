@@ -228,7 +228,9 @@ for value in home_away:
     if value == 'home':
         if situation[count] == 'Penalty':
             Hpenalties += 1
-            Hscore += 1
+            if outcome[count] == 'Goal':
+                Hscore += 1
+            count += 1
             continue
         Hx.append(x[count])
         Hy.append(y[count])
@@ -243,7 +245,9 @@ for value in home_away:
     else:
         if situation[count] == 'Penalty':
             Apenalties += 1
-            Ascore += 1
+            if outcome[count] == 'Goal':
+                Ascore += 1
+            count += 1
             continue
         Ax.append(x[count])
         Ay.append(y[count])
